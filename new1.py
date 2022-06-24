@@ -1,0 +1,3 @@
+#aavad
+
+print("Żyję ")
